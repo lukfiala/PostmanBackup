@@ -24,7 +24,7 @@
 							}
 						}
 					],
-					"_postman_id": "7e731c01-264a-45d3-b347-3310e9c6a8e0",
+					"id": "7e731c01-264a-45d3-b347-3310e9c6a8e0",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -37,7 +37,7 @@
 					"response": []
 				}
 			],
-			"_postman_id": "834ff297-3116-4861-b923-fc01ebd7a285"
+			"id": "834ff297-3116-4861-b923-fc01ebd7a285"
 		},
 		{
 			"name": "Documentation",
@@ -64,7 +64,7 @@
 							}
 						}
 					],
-					"_postman_id": "feb106b1-f0bd-4999-9566-6adc3f3835fe",
+					"id": "feb106b1-f0bd-4999-9566-6adc3f3835fe",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -76,7 +76,7 @@
 					"response": []
 				}
 			],
-			"_postman_id": "fa369852-0445-4d93-afa3-a77a72f6a6c0"
+			"id": "fa369852-0445-4d93-afa3-a77a72f6a6c0"
 		},
 		{
 			"name": "Authorization",
@@ -100,7 +100,7 @@
 									}
 								}
 							],
-							"_postman_id": "e9851f7c-c3dc-4a1e-bfb8-a95dbd56a4c2",
+							"id": "e9851f7c-c3dc-4a1e-bfb8-a95dbd56a4c2",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -127,7 +127,7 @@
 									}
 								}
 							],
-							"_postman_id": "c3e6e8fd-225c-404e-9a5e-a14a0fd519d6",
+							"id": "c3e6e8fd-225c-404e-9a5e-a14a0fd519d6",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -154,7 +154,7 @@
 									}
 								}
 							],
-							"_postman_id": "987ca54a-3406-4932-b786-7fc67ac0a9c0",
+							"id": "987ca54a-3406-4932-b786-7fc67ac0a9c0",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -166,7 +166,7 @@
 							"response": []
 						}
 					],
-					"_postman_id": "a29d1bf5-5f3d-42e6-97a9-1dee508189a4",
+					"id": "a29d1bf5-5f3d-42e6-97a9-1dee508189a4",
 					"auth": {
 						"type": "noauth"
 					},
@@ -191,8 +191,7 @@
 								]
 							}
 						}
-					],
-					"_postman_isSubFolder": true
+					]
 				},
 				{
 					"name": "With common user authorization",
@@ -213,7 +212,7 @@
 									}
 								}
 							],
-							"_postman_id": "a2898820-cf0e-439c-a1c7-92843b3d4946",
+							"id": "a2898820-cf0e-439c-a1c7-92843b3d4946",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -240,7 +239,7 @@
 									}
 								}
 							],
-							"_postman_id": "5d3e6d57-39df-46f3-91b3-933f02da41bf",
+							"id": "5d3e6d57-39df-46f3-91b3-933f02da41bf",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -267,7 +266,7 @@
 									}
 								}
 							],
-							"_postman_id": "b6009fe9-8e27-4216-90f7-33ebb637c971",
+							"id": "b6009fe9-8e27-4216-90f7-33ebb637c971",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -279,7 +278,7 @@
 							"response": []
 						}
 					],
-					"_postman_id": "b6ac360d-4f8c-4cd6-9923-34db81485240",
+					"id": "b6ac360d-4f8c-4cd6-9923-34db81485240",
 					"auth": {
 						"type": "bearer",
 						"bearer": {
@@ -329,8 +328,7 @@
 								]
 							}
 						}
-					],
-					"_postman_isSubFolder": true
+					]
 				},
 				{
 					"name": "With admin user authorization Copy",
@@ -351,7 +349,7 @@
 									}
 								}
 							],
-							"_postman_id": "771fe3c5-bbcb-41b4-9e14-b8d556854115",
+							"id": "771fe3c5-bbcb-41b4-9e14-b8d556854115",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -378,7 +376,7 @@
 									}
 								}
 							],
-							"_postman_id": "292839ae-dbf1-4462-8032-3d3aca514e60",
+							"id": "292839ae-dbf1-4462-8032-3d3aca514e60",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -405,7 +403,7 @@
 									}
 								}
 							],
-							"_postman_id": "9c58be32-2974-42fd-8916-bbb2275254dc",
+							"id": "9c58be32-2974-42fd-8916-bbb2275254dc",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
 							},
@@ -417,7 +415,7 @@
 							"response": []
 						}
 					],
-					"_postman_id": "d57bd644-4c10-4cdb-a998-65b4a58f900d",
+					"id": "d57bd644-4c10-4cdb-a998-65b4a58f900d",
 					"auth": {
 						"type": "bearer",
 						"bearer": {
@@ -467,11 +465,10 @@
 								]
 							}
 						}
-					],
-					"_postman_isSubFolder": true
+					]
 				}
 			],
-			"_postman_id": "64cebff1-f694-4dea-aa56-365d3b00d924"
+			"id": "64cebff1-f694-4dea-aa56-365d3b00d924"
 		},
 		{
 			"name": "Cleanup",
@@ -489,7 +486,7 @@
 					}
 				}
 			],
-			"_postman_id": "46556743-8330-4333-a534-d9a8e671d1f6",
+			"id": "46556743-8330-4333-a534-d9a8e671d1f6",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -525,10 +522,15 @@
 	],
 	"variable": [
 		{
-			"id": "7895ab65-56e5-451a-bd17-77cae95d9eba",
+			"id": "c20b73cb-bc6c-46d4-af03-c91a25047542",
 			"key": "MyVariable",
 			"value": "",
 			"type": "string"
+		},
+		{
+			"id": "f8021a03-1ec9-446c-a72b-73c066bf3825",
+			"key": "Temp.AdminAccessToken",
+			"value": ""
 		}
 	]
 }
