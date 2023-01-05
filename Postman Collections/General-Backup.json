@@ -522,20 +522,10 @@
 	],
 	"variable": [
 		{
-			"id": "92c253ac-1273-4adf-bccc-1ae4d8b5500d",
+			"id": "58afab4f-1653-49af-a598-dabb1c1fa3de",
 			"key": "MyVariable",
 			"value": "",
 			"type": "string"
-		},
-		{
-			"id": "6473067f-0e2e-457f-b1a6-676ecb7dd467",
-			"key": "Temp.AdminAccessToken",
-			"value": ""
-		},
-		{
-			"id": "23637b87-13db-4023-8c3c-6594ffa67e02",
-			"key": "Temp.CommonUserAccessToken",
-			"value": ""
 		}
 	]
 }
